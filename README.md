@@ -15,6 +15,6 @@
 - Padding/Spacing values in Values files for reusability
 - Encrypted way of implementing "remember me", preferably saving some auth token returned from the backed instead of actual login data
 - Convey the error/success messages to the user in a better way, Snackbar was just a basic and quick way
--
+
 ## Final considerations
 I tried to do this mimicking how it would be done during the interview, so I kept it pretty simple and with lots of room for improvement
