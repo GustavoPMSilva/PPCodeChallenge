@@ -1,3 +1,6 @@
+## How to login:
+Username "admin" and password equal or greater than 6 characters
+
 ## Technologies:
 - Compose for UI
 - Clean architecture for files organization
